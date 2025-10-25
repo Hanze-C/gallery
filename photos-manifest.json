@@ -1,0 +1,35 @@
+{
+  "version": "v7",
+  "data": [
+    {
+      "id": "团旗4096_2731",
+      "title": "团旗4096 2731",
+      "description": "",
+      "dateTaken": "2025-10-25T10:12:28.152Z",
+      "tags": [
+        "photos"
+      ],
+      "originalUrl": "https://s3.ap-southeast-1.idrivee2.com/hanze/photos/团旗4096_2731.png",
+      "thumbnailUrl": "/thumbnails/团旗4096_2731.jpg",
+      "thumbHash": "1a8b030d827e0273ce385277883884427fdf070782",
+      "width": 4096,
+      "height": 2731,
+      "aspectRatio": 1.4998169168802635,
+      "s3Key": "photos/团旗4096_2731.png",
+      "lastModified": "2025-10-25T10:11:41.697Z",
+      "size": 161958,
+      "exif": null,
+      "toneAnalysis": {
+        "toneType": "normal",
+        "brightness": 38,
+        "contrast": 19,
+        "shadowRatio": 0,
+        "highlightRatio": 0.04
+      },
+      "isLivePhoto": false,
+      "isHDR": false
+    }
+  ],
+  "cameras": [],
+  "lenses": []
+}
